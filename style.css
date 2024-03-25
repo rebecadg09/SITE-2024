@@ -2,12 +2,20 @@
 
 body
 {
-    background-color: rgb(241, 241, 107) ;
-    color: peru;
+    text-align: center;
+    background: -moz-linear-gradient(0deg, rgb(15, 72, 228), rgb(2,187,243), rgb(115, 235, 229));
+    color: black;
     font-size: 12pt;
     font-family: Arial;
+    
+    
+    
 }
 
+a {
+    text-decoration: none;
+    
+}
 
 
 
