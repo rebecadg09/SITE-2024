@@ -3,10 +3,12 @@
 body
 {
     text-align: center;
-    background: -moz-linear-gradient(0deg, rgb(15, 72, 228), rgb(2,187,243), rgb(115, 235, 229));
+    background: -moz-linear-gradient(0deg, rgb(185, 79, 226), rgb(2,187,243), rgb(115, 235, 179));
     color: black;
     font-size: 12pt;
-    font-family: Arial;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
     
     
     
